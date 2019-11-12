@@ -1,5 +1,3 @@
 package daf.demotdd.model
 
-class Currency(name: String, dollarConversion: String) {
-
-}
+class Currency(var name: String, var dollarConversion: String)
